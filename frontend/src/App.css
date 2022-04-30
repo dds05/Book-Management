@@ -1,0 +1,48 @@
+.btn-hover:hover{
+text-decoration: underline;
+}
+
+.bgImage{
+    background:url('../public/bg.jpg');
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+.bgDashboard{
+    background:url('../public/8d00fc17f0178162845195e7b5ea34a0.jpg');
+    height: 150vh;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-white{
+    color: white;
+}
+.fw600{
+    font-weight: 600;
+}
+.myBooksBg{
+    background:url('../public/studio-media-9DaOYUYnOls-unsplash.jpg');
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: .9;
+}
+
+thead{
+    background-color: lightgoldenrodyellow;
+}
+tbody{
+    background-color: whitesmoke;
+}
+
+table{
+    opacity: 0.95;
+}
