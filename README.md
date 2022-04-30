@@ -6,6 +6,6 @@
 <hr/>
 
 ### Installation:-
-#### Note:&nbsp; The root folder consists of complete backend, which also includes a 'frontend' folder which comprises of all the frontend of the application.
+#### Note:&nbsp; The root folder consists a subfolder 'frontend' which comprises of all the frontend of the application. Besides that, everything is for backend.
 #### 1. npm install.
 #### 2. npm start.
